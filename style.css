@@ -1,0 +1,83 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.hero {
+  padding: 50px;
+  text-align: center;
+}
+
+.hero p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.cta {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.portfolio {
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project-card {
+  width: 30%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.project-card img {
+  width: 100%;
+  display: block;
+}
+
+.testimonials {
+  padding: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 20px 0;
+}
+
+.contact {
+  padding: 50px;
+  text-align: center;
+}
+
+.contact p {
+  margin-bottom: 20
+
