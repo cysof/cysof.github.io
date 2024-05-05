@@ -62,11 +62,6 @@ h2 {
   display: block;
 }
 
-.testimonials {
-  padding: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-}
 
 blockquote {
   font-style: italic;
@@ -80,4 +75,4 @@ blockquote {
 
 .contact p {
   margin-bottom: 20
-
+}
