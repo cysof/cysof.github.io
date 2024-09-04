@@ -49,7 +49,7 @@ a.nav-item:hover {
 
 .intro-description{
 	padding-top: 1rem;
-	text-align: center;
+	
 }
 
 .social-container img{
@@ -80,8 +80,8 @@ a.nav-item:hover {
 }
 
 .intro {
-	text-align: justify;
-	width: 80%;
+	text-align: center;
+	width: 100%;
 	margin: 0 auto;
 }
 
